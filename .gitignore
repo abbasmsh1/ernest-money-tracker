@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+build/
+dist/
+*.spec
+Time&Tune/
+TimeAndTune_Ernest_Data/
+*.original.md
